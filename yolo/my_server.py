@@ -34,7 +34,12 @@ def get_file_content(src_img, file_name):
         y2 = int(result['ymax'])
         result_yolo_txt += my_utils_yolo.get_class_number(name) + ' ' + my_utils_yolo.convert(src_img, (x1, x2, y1, y2))
         draw.rectangle(((x1, y1), (x2, y2)), outline="white", width=4)
-        draw.text((x2, y1), name, font=ImageFont.truetype("OpenSans-VariableFont_wdth,wght.ttf", 30))
+        print('TEST: ', name, int(source_img.size[0]) - x2)
+        if (int(source_img.size[0]) - x2) < 200:
+            w_name = len(name)*16
+            draw.multiline_text((int(source_img.size[0])-w_name, y1-34), name, font=ImageFont.truetype("OpenSans-VariableFont_wdth,wght.ttf", 30), align="right")
+        else:
+            draw.text((x2, y1), name, font=ImageFont.truetype("OpenSans-VariableFont_wdth,wght.ttf", 30))
 
     source_img.save('static/results/' + file_name)
     return len(x)
