@@ -1,0 +1,11 @@
+* conf: 0.25
+	exp9 - 1
+	exp8 - 2
+	exp7 - 3
+	exp6 - 4
+	exp5 - 5
+	exp4 - 6
+	exp3 - 7
+	exp2 - 8
+	exp - ?
+sign conf0.65 exp10-sign6
