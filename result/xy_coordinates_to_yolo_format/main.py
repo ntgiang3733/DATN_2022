@@ -25,12 +25,12 @@ def getFileContent(src_img):
     
     return result_yolo_txt
 
-le = len(os.listdir(os.getcwd()))
+le = len(os.listdir(os.getcwd())) - 6
 count = 0
 for filename in os.listdir(os.getcwd()):
     count += 1
-    if filename != 'main.py' and filename != 'utils_yolo.py' and filename != 'res' and filename != '__pycache__':
+    if filename != 'main.py' and filename != 'utils_yolo.py' and filename != 'res' and filename != '__pycache__' and filename != 'light_weight' and filename != 'sign_weight':
         with open('./res/' + filename.replace('.png', '.txt').replace('.jpg', '.txt'),'w',encoding = 'utf-8') as f: 
             f.write(getFileContent(filename))
-            print(str(count) + '/' + str(le) + ' : ' + filename)
+            print(str(count) + '/' + str(le) + ' : ' + filename.replace('.png', '.txt').replace('.jpg', '.txt'))
             f.close()
