@@ -68,7 +68,7 @@ def home_page():
                 video.save(path_to_save)
 
                 detect.run(
-                    weights='./runs/train_sign/exp6/weights/best.pt',
+                    weights='./runs/train_light/exp7/weights/best.pt',
                     conf_thres=0.5,
                     source=path_to_save,
                     exist_ok=True,
