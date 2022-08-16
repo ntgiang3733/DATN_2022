@@ -113,6 +113,86 @@
 
         }
 
+        .active#class_2, .active#class_8 {
+            color: #CFC547;
+            text-align: center;
+            letter-spacing: 5px;
+            text-shadow: 10px 10px 25px rgb(81,67,21),
+                -10px 10px 25px rgb(81,67,21),
+                -10px -10px 25px rgb(81,67,21),
+                10px -10px 25px rgb(81,67,21);
+        }
+
+        .active#class_0, 
+        .active#class_3,
+        .active#class_4,
+        .active#class_5,
+        .active#class_6,
+        .active#class_7 {
+            color: #c93535;
+            text-align: center;
+            letter-spacing: 5px;
+            text-shadow: 10px 10px 25px rgb(81, 21, 26),
+                -10px 10px 25px rgb(81, 21, 26),
+                -10px -10px 25px rgb(81, 21, 26),
+                10px -10px 25px rgb(81, 21, 26);
+        }
+
+        .active#class_1 {
+            color: #3ac935;
+            text-align: center;
+            letter-spacing: 5px;
+            text-shadow: 10px 10px 25px rgb(26, 81, 21),
+                -10px 10px 25px rgb(26, 81, 21),
+                -10px -10px 25px rgb(26, 81, 21),
+                10px -10px 25px rgb(26, 81, 21);
+        }
+
+        .active#class_9 {
+            color: #3544c9;
+            text-align: center;
+            letter-spacing: 5px;
+            text-shadow: 10px 10px 25px rgb(21, 22, 81),
+                -10px 10px 25px rgb(21, 22, 81),
+                -10px -10px 25px rgb(21, 22, 81),
+                10px -10px 25px rgb(21, 22, 81);
+        }
+        .label_list img.active {
+            opacity: 1;
+        }
+        .label_list img {
+            opacity: 0.1;
+        }
+
+        .label_list {
+            /* background-color: black; */
+            border: solid 3px rgb(92, 92, 10);
+            border-radius: 5px;
+            color: #202020;
+        }
+        .label_list .row {
+            height: 50px;
+        }
+        .label_list img {
+            width: 30px;
+            height: 30px;
+        }
+        body {
+            /* background-color: #3a3a3a; */
+            background-color: black;
+        }
+        .text-info {
+            font-size: 23px;
+        }
+        .my_contain {
+            width: 100%;
+        }
+
+        #list_class {
+            color: black
+        }
+    </style>
+
     </style>
 </head>
 
@@ -133,6 +213,9 @@
     </div>
 
     <div class='result_part'>
+        {% if list_class %}
+            <p id="list_class">{{ list_class }}</p>
+        {% endif %}
         {% if msg %}
         <div class='header'>Kết quả nhận diện</div>
         <div class='result_id'>{{ msg }}</div>
@@ -141,19 +224,101 @@
         {% endif %}
         {% if image_1 %}
         <div class="row">
-            <div class="col-6">
+            <div class="col-5">
                 <div>
                     <p>Ảnh gốc</p>
                 </div>
                 <img style="max-width:560px; border-radius:1rem" src="{{ url_for('static', filename=image_0) }}?{{ rand }}"
                     alt="User Image">
             </div>
-            <div class="col-6">
+            <div class="col-5">
                 <div>
                     <p>Kết quả</p>
                 </div>
                 <img style="max-width:560px; border-radius:1rem" src="{{ url_for('static', filename=image_1) }}?{{ rand }}"
                     alt="User Image">
+            </div>
+            <div class="col-2 label_list">
+                <div class="row">
+                    <div class="col-3">
+                        <img id="img_class_0" src="http://192.168.1.165:5000/static/label_img/den_do.png" />
+                    </div>
+                    <div class="col-9">
+                        <span class="label_class" id="class_0">Đèn đỏ</span>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-3">
+                        <img id="img_class_1" src="http://192.168.1.165:5000/static/label_img/den_xanh.png" />
+                    </div>
+                    <div class="col-9">
+                        <span class="label_class" id="class_1">Đèn xanh</span>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-3">
+                        <img id="img_class_2" src="http://192.168.1.165:5000/static/label_img/den_vang.png" />
+                    </div>
+                    <div class="col-9">
+                        <span class="label_class" id="class_2">Đèn vàng</span>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-3">
+                        <img id="img_class_3" src="http://192.168.1.165:5000/static/label_img/cam_nguoc_chieu.png" />
+                    </div>
+                    <div class="col-9">
+                        <span class="label_class" id="class_3">Cấm ngược chiều</span>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-3">
+                        <img id="img_class_4" src="http://192.168.1.165:5000/static/label_img/cam_dung_do_xe.png" />
+                    </div>
+                    <div class="col-9">
+                        <span class="label_class" id="class_4">Cấm dừng và đỗ</span>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-3">
+                        <img id="img_class_5" src="http://192.168.1.165:5000/static/label_img/cam_re.png" />
+                    </div>
+                    <div class="col-9">
+                        <span class="label_class" id="class_5">Cấm rẽ</span>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-3">
+                        <img id="img_class_6" src="http://192.168.1.165:5000/static/label_img/gioi_han_td.png" />
+                    </div>
+                    <div class="col-9">
+                        <span class="label_class" id="class_6">Giới hạn tốc độ</span>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-3">
+                        <img id="img_class_7" src="http://192.168.1.165:5000/static/label_img/cam_con_lai.png" />
+                    </div>
+                    <div class="col-9">
+                        <span class="label_class" id="class_7">Cấm còn lại</span>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-3">
+                        <img id="img_class_8" src="http://192.168.1.165:5000/static/label_img/nguy_hiem.png" />
+                    </div>
+                    <div class="col-9">
+                        <span class="label_class" id="class_8">Nguy hiểm</span>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-3">
+                        <img id="img_class_9" src="http://192.168.1.165:5000/static/label_img/hieu_lenh.png" />
+                    </div>
+                    <div class="col-9">
+                        <span class="label_class" id="class_9">Hiệu lệnh</span>
+                    </div>
+                </div>
             </div>
         </div>
         {% endif %}
@@ -196,6 +361,15 @@
         $('#upload_hint').text('Đang tải file ' + $('#fileinput')[0].files[0].name + ' lên server...');
     });
 
+    $( document ).ready(function() {
+        setTimeout(() => {
+            let list = document.getElementById('list_class').innerHTML.trim();
+            list.split(' ').forEach((item) => {
+                $('#' + item).addClass('active');
+                $('#img_' + item).addClass('active');
+            });
+        }, 500)
+    });
 </script>
 
 </html>

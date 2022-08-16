@@ -26,12 +26,14 @@ def get_file_content(src_img, file_name):
     x = numpy.concatenate((res_sign_arr, res_light_arr))
 
     result_yolo_txt = ''
+    list_class = ''
     for result in x:
         name = result['name']
         x1 = int(result['xmin'])
         y1 = int(result['ymin'])
         x2 = int(result['xmax'])
         y2 = int(result['ymax'])
+        list_class = list_class + ' ' + 'class_' + my_utils_yolo.get_class_number(name)
         result_yolo_txt += my_utils_yolo.get_class_number(name) + ' ' + my_utils_yolo.convert(src_img, (x1, x2, y1, y2))
         draw.rectangle(((x1, y1), (x2, y2)), outline="white", width=4)
         print('TEST: ', name, int(source_img.size[0]) - x2)
@@ -42,7 +44,7 @@ def get_file_content(src_img, file_name):
             draw.text((x2, y1), name, font=ImageFont.truetype("OpenSans-VariableFont_wdth,wght.ttf", 30))
 
     source_img.save('static/results/' + file_name)
-    return len(x)
+    return (len(x), list_class)
 
 def check_image(img):
     return img.lower().endswith(('.png', '.jpg', '.jpeg', '.tiff', '.bmp', '.gif'))
@@ -63,10 +65,10 @@ def home_page():
                 print("Save = ", path_to_save)
                 image.save(path_to_save)
 
-                ndet = get_file_content(path_to_save, image.filename)
+                ndet, list_class = get_file_content(path_to_save, image.filename)
                 
                 return render_template("index.html", image_0 = 'upload/' + image.filename, image_1 = 'results/' + image.filename, rand = str(random()),
-                                           msg="Tải file lên thành công", ndet = ndet)
+                                           msg="Tải file lên thành công", ndet = ndet, list_class = list_class)
             elif video:
                 path_to_save = os.path.join(app.config['UPLOAD_FOLDER'] + '/upload', video.filename)
                 print("Save = ", path_to_save)
