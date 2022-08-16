@@ -27,7 +27,6 @@ var data_class = [
         "class_9"
     ],
     [
-        "class_3",
         "class_9",
         "class_9"
     ],
@@ -43,11 +42,9 @@ var data_class = [
         "class_9"
     ],
     [
-        "class_3",
         "class_9"
     ],
     [
-        "class_7",
         "class_9"
     ],
     [
@@ -83,13 +80,10 @@ var data_class = [
         "class_9"
     ],
     [
-        "class_9",
         "class_3",
         "class_9"
     ],
     [
-        "class_9",
-        "class_3",
         "class_9",
         "class_8"
     ],
@@ -103,13 +97,9 @@ var data_class = [
         "class_8"
     ],
     [
-        "class_8",
         "class_8"
     ],
     [
-        "class_7",
-        "class_5",
-        "class_8",
         "class_8"
     ],
     [
@@ -118,18 +108,14 @@ var data_class = [
         "class_5"
     ],
     [
-        "class_3",
         "class_5",
         "class_8"
     ],
     [
-        "class_8",
-        "class_9",
         "class_3",
         "class_8"
     ],
     [
-        "class_7",
         "class_8"
     ],
     [
@@ -140,16 +126,12 @@ var data_class = [
         "class_8"
     ],
     [
-        "class_8",
         "class_8"
     ],
     [
         "class_8"
     ],
     [
-        "class_7",
-        "class_9",
-        "class_3",
         "class_8"
     ],
     [
@@ -159,33 +141,34 @@ var data_class = [
         "class_3"
     ],
     [
-        "class_9",
         "class_7",
         "class_3",
         "class_8"
     ],
     [
         "class_7",
-        "class_9",
-        "class_7",
         "class_3",
         "class_8"
     ],
     [
-        "class_7",
         "class_9",
         "class_3",
         "class_8"
     ],
     [
-        "class_7",
-        "class_3",
         "class_9",
         "class_8"
     ],
     [
-        "class_7",
-        "class_7",
+        "class_8"
+    ],
+    [
+        "class_8"
+    ],
+    [
+        "class_8"
+    ],
+    [
         "class_8"
     ],
     [
@@ -194,43 +177,26 @@ var data_class = [
     ],
     [
         "class_7",
+        "class_8"
+    ],
+    [
+        "class_8"
+    ],
+    [
+        "class_8"
+    ],
+    [
+        "class_8"
+    ],
+    [
         "class_8"
     ],
     [
         "class_3",
-        "class_7",
-        "class_9",
-        "class_8"
-    ],
-    [
-        "class_7",
-        "class_8"
-    ],
-    [
-        "class_7",
-        "class_8"
-    ],
-    [
-        "class_7",
-        "class_8"
-    ],
-    [
-        "class_7",
-        "class_7",
         "class_8"
     ],
     [
         "class_5",
-        "class_8"
-    ],
-    [
-        "class_5",
-        "class_8"
-    ],
-    [
-        "class_9",
-        "class_5",
-        "class_3",
         "class_8"
     ],
     [
@@ -239,19 +205,10 @@ var data_class = [
         "class_8"
     ],
     [
-        "class_7",
-        "class_9",
-        "class_3",
-        "class_5",
-        "class_8"
-    ],
-    [
-        "class_9",
         "class_3",
         "class_8"
     ],
     [
-        "class_7",
         "class_8"
     ],
     [
@@ -260,51 +217,30 @@ var data_class = [
         "class_8"
     ],
     [
-        "class_7",
-        "class_7",
         "class_3",
         "class_8"
     ],
     [
-        "class_9",
-        "class_8",
-        "class_5",
-        "class_7",
         "class_3",
         "class_8"
     ],
     [
-        "class_9",
-        "class_8",
-        "class_3",
-        "class_7",
         "class_7",
         "class_8"
     ],
     [
-        "class_9",
-        "class_7",
-        "class_5",
-        "class_8",
-        "class_7",
         "class_3",
         "class_8"
     ],
     [
-        "class_8",
-        "class_5",
         "class_3",
         "class_8"
     ],
     [
-        "class_8",
-        "class_9",
         "class_3",
         "class_8"
     ],
     [
-        "class_8",
-        "class_9",
         "class_3",
         "class_8"
     ],
@@ -315,7 +251,6 @@ var data_class = [
         "class_8"
     ],
     [
-        "class_5",
         "class_9",
         "class_8",
         "class_5",
@@ -328,19 +263,6 @@ var data_class = [
         "class_3"
     ],
     [
-        "class_9",
-        "class_3",
-        "class_5",
-        "class_8"
-    ],
-    [
-        "class_5",
-        "class_3",
-        "class_5",
-        "class_8"
-    ],
-    [
-        "class_5",
         "class_3",
         "class_5",
         "class_8"
@@ -352,16 +274,6 @@ var data_class = [
     ],
     [
         "class_5",
-        "class_5",
-        "class_8"
-    ],
-    [
-        "class_5",
-        "class_8"
-    ],
-    [
-        "class_7",
-        "class_5",
         "class_8"
     ],
     [
@@ -373,23 +285,6 @@ var data_class = [
         "class_8"
     ],
     [
-        "class_3",
-        "class_5",
-        "class_8"
-    ],
-    [
-        "class_5",
-        "class_5",
-        "class_3",
-        "class_5",
-        "class_8"
-    ],
-    [
-        "class_5",
-        "class_8"
-    ],
-    [
-        "class_7",
         "class_5",
         "class_8"
     ],
@@ -399,11 +294,37 @@ var data_class = [
     ],
     [
         "class_5",
+        "class_8"
+    ],
+    [
         "class_5",
         "class_8"
     ],
     [
-        "class_7",
+        "class_5",
+        "class_8"
+    ],
+    [
+        "class_5",
+        "class_8"
+    ],
+    [
+        "class_8"
+    ],
+    [
+        "class_5",
+        "class_8"
+    ],
+    [
+        "class_5",
+        "class_8"
+    ],
+    [
+        "class_5",
+        "class_5",
+        "class_8"
+    ],
+    [
         "class_5",
         "class_8"
     ],
@@ -420,15 +341,12 @@ var data_class = [
         "class_8"
     ],
     [
-        "class_3",
         "class_5",
         "class_7",
         "class_5",
         "class_8"
     ],
     [
-        "class_5",
-        "class_5",
         "class_7",
         "class_8"
     ],
@@ -440,7 +358,6 @@ var data_class = [
         "class_8"
     ],
     [
-        "class_7",
         "class_3",
         "class_5",
         "class_5",
@@ -453,11 +370,9 @@ var data_class = [
     ],
     [
         "class_5",
-        "class_5",
         "class_8"
     ],
     [
-        "class_7",
         "class_5",
         "class_8"
     ],
@@ -472,18 +387,21 @@ var data_class = [
         "class_8"
     ],
     [
-        "class_7",
         "class_5",
         "class_5",
         "class_8"
     ],
     [
-        "class_7",
-        "class_5",
         "class_5",
         "class_8"
     ],
     [
+        "class_8"
+    ],
+    [
+        "class_8"
+    ],
+    [
         "class_7",
         "class_8"
     ],
@@ -493,18 +411,6 @@ var data_class = [
         "class_8"
     ],
     [
-        "class_5",
-        "class_7",
-        "class_7",
-        "class_8"
-    ],
-    [
-        "class_7",
-        "class_7",
-        "class_8"
-    ],
-    [
-        "class_9",
         "class_5",
         "class_3",
         "class_7",
@@ -512,7 +418,6 @@ var data_class = [
         "class_8"
     ],
     [
-        "class_9",
         "class_3",
         "class_7",
         "class_7",
@@ -525,58 +430,40 @@ var data_class = [
         "class_8"
     ],
     [
-        "class_3",
-        "class_7",
-        "class_7",
         "class_7",
         "class_9",
         "class_8"
     ],
     [
         "class_7",
-        "class_7",
-        "class_7",
         "class_9",
         "class_8"
     ],
     [
-        "class_7",
         "class_9",
         "class_5",
         "class_8"
     ],
     [
-        "class_7",
-        "class_7",
         "class_9",
         "class_8"
     ],
     [
-        "class_7",
-        "class_7",
-        "class_9",
         "class_8"
     ],
     [
-        "class_7",
-        "class_5",
-        "class_9",
         "class_8"
     ],
     [
-        "class_7",
-        "class_9",
         "class_5",
         "class_7",
         "class_8"
     ],
     [
         "class_7",
-        "class_7",
         "class_8"
     ],
     [
-        "class_5",
         "class_7",
         "class_7",
         "class_3",
@@ -591,8 +478,6 @@ var data_class = [
         "class_8"
     ],
     [
-        "class_5",
-        "class_9",
         "class_7",
         "class_7",
         "class_3",
@@ -600,71 +485,54 @@ var data_class = [
     ],
     [
         "class_7",
-        "class_9",
-        "class_7",
         "class_3",
         "class_5",
         "class_8"
     ],
     [
-        "class_9",
         "class_3",
         "class_7",
         "class_5",
         "class_8"
     ],
     [
-        "class_7",
         "class_9",
         "class_3",
         "class_5",
         "class_8"
     ],
     [
-        "class_5",
-        "class_7",
         "class_3",
         "class_9",
         "class_5",
         "class_8"
     ],
     [
-        "class_3",
-        "class_7",
         "class_7",
         "class_9",
         "class_5",
         "class_8"
     ],
     [
-        "class_7",
-        "class_7",
         "class_5",
         "class_8"
     ],
     [
-        "class_3",
-        "class_7",
-        "class_9",
         "class_5",
         "class_8"
     ],
     [
-        "class_7",
         "class_3",
         "class_9",
         "class_5",
         "class_8"
     ],
     [
-        "class_3",
-        "class_7",
         "class_5",
         "class_8",
         "class_5"
     ],
     [
-        "class_7",
         "class_9",
         "class_5",
         "class_3",
@@ -672,13 +540,6 @@ var data_class = [
         "class_5"
     ],
     [
-        "class_9",
-        "class_7",
-        "class_3",
-        "class_5",
-        "class_8"
-    ],
-    [
         "class_7",
         "class_3",
         "class_5",
@@ -686,46 +547,45 @@ var data_class = [
     ],
     [
         "class_3",
-        "class_7",
-        "class_9",
-        "class_7",
-        "class_8"
-    ],
-    [
-        "class_7",
-        "class_3",
-        "class_7",
-        "class_8"
-    ],
-    [
-        "class_9",
-        "class_7",
-        "class_3",
-        "class_7",
-        "class_8"
-    ],
-    [
-        "class_9",
-        "class_7",
-        "class_3",
-        "class_7",
-        "class_8"
-    ],
-    [
-        "class_9",
-        "class_7",
-        "class_7",
-        "class_8"
-    ],
-    [
-        "class_3",
-        "class_9",
-        "class_7",
-        "class_7",
-        "class_8"
-    ],
-    [
         "class_5",
+        "class_8"
+    ],
+    [
+        "class_9",
+        "class_7",
+        "class_8"
+    ],
+    [
+        "class_7",
+        "class_8"
+    ],
+    [
+        "class_9",
+        "class_7",
+        "class_3",
+        "class_7",
+        "class_8"
+    ],
+    [
+        "class_9",
+        "class_7",
+        "class_3",
+        "class_7",
+        "class_8"
+    ],
+    [
+        "class_7",
+        "class_7",
+        "class_8"
+    ],
+    [
+        "class_3",
+        "class_9",
+        "class_7",
+        "class_7",
+        "class_8"
+    ],
+    [
         "class_9",
         "class_7",
         "class_3",
@@ -767,15 +627,11 @@ var data_class = [
         "class_8"
     ],
     [
-        "class_9",
-        "class_3",
         "class_7",
         "class_5",
         "class_8"
     ],
     [
-        "class_9",
-        "class_3",
         "class_7",
         "class_5",
         "class_8"
@@ -800,14 +656,12 @@ var data_class = [
         "class_8"
     ],
     [
-        "class_3",
         "class_9",
         "class_7",
         "class_5",
         "class_8"
     ],
     [
-        "class_3",
         "class_7",
         "class_9",
         "class_5",
@@ -821,7 +675,6 @@ var data_class = [
         "class_8"
     ],
     [
-        "class_4",
         "class_9",
         "class_7",
         "class_3",
@@ -829,8 +682,6 @@ var data_class = [
         "class_8"
     ],
     [
-        "class_3",
-        "class_4",
         "class_9",
         "class_5",
         "class_7",
@@ -850,15 +701,12 @@ var data_class = [
         "class_8"
     ],
     [
-        "class_3",
         "class_5",
         "class_7",
         "class_9",
         "class_8"
     ],
     [
-        "class_4",
-        "class_5",
         "class_9",
         "class_7",
         "class_8"
@@ -870,7 +718,6 @@ var data_class = [
     ],
     [
         "class_7",
-        "class_7",
         "class_8"
     ],
     [
@@ -879,7 +726,6 @@ var data_class = [
         "class_8"
     ],
     [
-        "class_7",
         "class_5",
         "class_7",
         "class_8"
@@ -890,7 +736,6 @@ var data_class = [
         "class_8"
     ],
     [
-        "class_8",
         "class_7",
         "class_5",
         "class_8"
@@ -901,7 +746,6 @@ var data_class = [
         "class_8"
     ],
     [
-        "class_5",
         "class_7",
         "class_7",
         "class_8"
@@ -927,7 +771,6 @@ var data_class = [
         "class_8"
     ],
     [
-        "class_7",
         "class_5",
         "class_7",
         "class_8"
@@ -938,7 +781,6 @@ var data_class = [
         "class_8"
     ],
     [
-        "class_3",
         "class_7",
         "class_5",
         "class_8"
@@ -954,13 +796,11 @@ var data_class = [
         "class_8"
     ],
     [
-        "class_4",
         "class_7",
         "class_8",
         "class_5"
     ],
     [
-        "class_4",
         "class_7",
         "class_8",
         "class_5"
@@ -978,7 +818,6 @@ var data_class = [
         "class_8"
     ],
     [
-        "class_5",
         "class_4",
         "class_7",
         "class_7",
@@ -1007,8 +846,6 @@ var data_class = [
         "class_8"
     ],
     [
-        "class_5",
-        "class_7",
         "class_7",
         "class_8"
     ],
@@ -1067,7 +904,6 @@ var data_class = [
         "class_8"
     ],
     [
-        "class_5",
         "class_7",
         "class_8"
     ],
@@ -1093,7 +929,6 @@ var data_class = [
         "class_8"
     ],
     [
-        "class_8",
         "class_5",
         "class_7",
         "class_8"
@@ -1109,7 +944,6 @@ var data_class = [
         "class_8"
     ],
     [
-        "class_9",
         "class_5",
         "class_7",
         "class_8"
@@ -1120,14 +954,11 @@ var data_class = [
         "class_8"
     ],
     [
-        "class_5",
-        "class_9",
         "class_3",
         "class_7",
         "class_8"
     ],
     [
-        "class_3",
         "class_5",
         "class_7",
         "class_8"
@@ -1143,27 +974,22 @@ var data_class = [
         "class_8"
     ],
     [
-        "class_3",
         "class_7",
         "class_5",
         "class_8"
     ],
     [
-        "class_8",
         "class_3",
         "class_7",
         "class_5",
         "class_8"
     ],
     [
-        "class_8",
-        "class_3",
         "class_7",
         "class_5",
         "class_8"
     ],
     [
-        "class_9",
         "class_3",
         "class_5",
         "class_7",
@@ -1185,7 +1011,6 @@ var data_class = [
         "class_8"
     ],
     [
-        "class_3",
         "class_7",
         "class_5",
         "class_8"
@@ -1205,8 +1030,6 @@ var data_class = [
         "class_5"
     ],
     [
-        "class_5",
-        "class_7",
         "class_5",
         "class_8"
     ],
@@ -1264,7 +1087,6 @@ var data_class = [
         "class_8"
     ],
     [
-        "class_3",
         "class_5",
         "class_8"
     ],
@@ -1325,21 +1147,14 @@ var data_class = [
         "class_8"
     ],
     [],
-    [
-        "class_3",
-        "class_9"
-    ],
+    [],
     [],
     [],
     [],
     [
-        "class_3",
-        "class_4",
         "class_7"
     ],
     [
-        "class_7",
-        "class_4",
         "class_5"
     ],
     [
@@ -1370,7 +1185,6 @@ var data_class = [
         "class_7"
     ],
     [
-        "class_3",
         "class_7"
     ],
     [
@@ -1406,7 +1220,6 @@ var data_class = [
         "class_7"
     ],
     [
-        "class_3",
         "class_4",
         "class_7"
     ],
@@ -1420,7 +1233,6 @@ var data_class = [
         "class_7"
     ],
     [
-        "class_3",
         "class_7"
     ],
     [
@@ -1465,7 +1277,6 @@ var data_class = [
         "class_7"
     ],
     [
-        "class_3",
         "class_7"
     ],
     [
@@ -1475,20 +1286,6 @@ var data_class = [
         "class_7"
     ],
     [
-        "class_3",
-        "class_7"
-    ],
-    [
-        "class_9",
-        "class_3",
-        "class_7"
-    ],
-    [
-        "class_3",
-        "class_7"
-    ],
-    [
-        "class_3",
         "class_7"
     ],
     [
@@ -1499,26 +1296,32 @@ var data_class = [
         "class_7"
     ],
     [
-        "class_7"
-    ],
-    [
-        "class_7"
-    ],
-    [
-        "class_7"
-    ],
-    [
-        "class_9",
         "class_3",
         "class_7"
     ],
     [
+        "class_7"
+    ],
+    [
+        "class_7"
+    ],
+    [
+        "class_7"
+    ],
+    [
+        "class_7"
+    ],
+    [
+        "class_7"
+    ],
+    [
+        "class_7"
+    ],
+    [
         "class_3",
         "class_7"
     ],
     [
-        "class_9",
-        "class_4",
         "class_3",
         "class_7"
     ],
@@ -1530,12 +1333,10 @@ var data_class = [
         "class_7"
     ],
     [
-        "class_4",
         "class_3",
         "class_7"
     ],
     [
-        "class_3",
         "class_7"
     ],
     [
@@ -1548,8 +1349,6 @@ var data_class = [
         "class_7"
     ],
     [
-        "class_3",
-        "class_9",
         "class_7"
     ],
     [
@@ -1579,67 +1378,6 @@ var data_class = [
         "class_7"
     ],
     [
-        "class_7"
-    ],
-    [
-        "class_7"
-    ],
-    [
-        "class_7"
-    ],
-    [
-        "class_7"
-    ],
-    [
-        "class_7"
-    ],
-    [
-        "class_9",
-        "class_3",
-        "class_7"
-    ],
-    [
-        "class_3",
-        "class_9",
-        "class_7"
-    ],
-    [
-        "class_3",
-        "class_9",
-        "class_7"
-    ],
-    [
-        "class_3",
-        "class_9",
-        "class_7"
-    ],
-    [
-        "class_9",
-        "class_3",
-        "class_7"
-    ],
-    [
-        "class_7"
-    ],
-    [
-        "class_9",
-        "class_7"
-    ],
-    [
-        "class_7"
-    ],
-    [
-        "class_7"
-    ],
-    [
-        "class_9",
-        "class_7"
-    ],
-    [
-        "class_7"
-    ],
-    [
-        "class_3",
         "class_7"
     ],
     [
@@ -1656,6 +1394,59 @@ var data_class = [
     ],
     [
         "class_9",
+        "class_3",
+        "class_7"
+    ],
+    [
+        "class_3",
+        "class_9",
+        "class_7"
+    ],
+    [
+        "class_9",
+        "class_7"
+    ],
+    [
+        "class_9",
+        "class_7"
+    ],
+    [
+        "class_7"
+    ],
+    [
+        "class_7"
+    ],
+    [
+        "class_7"
+    ],
+    [
+        "class_7"
+    ],
+    [
+        "class_7"
+    ],
+    [
+        "class_7"
+    ],
+    [
+        "class_7"
+    ],
+    [
+        "class_7"
+    ],
+    [
+        "class_7"
+    ],
+    [
+        "class_7"
+    ],
+    [
+        "class_7"
+    ],
+    [
+        "class_7"
+    ],
+    [
         "class_3",
         "class_7"
     ],
@@ -1686,7 +1477,6 @@ var data_class = [
         "class_7"
     ],
     [
-        "class_4",
         "class_7"
     ],
     [
@@ -1735,6 +1525,14 @@ var data_class = [
         "class_4"
     ],
     [
+        "class_7",
+        "class_4"
+    ],
+    [
+        "class_7",
+        "class_4"
+    ],
+    [
         "class_3",
         "class_7",
         "class_4"
@@ -1745,22 +1543,10 @@ var data_class = [
     ],
     [
         "class_9",
-        "class_3",
         "class_7",
         "class_4"
     ],
     [
-        "class_3",
-        "class_7",
-        "class_4"
-    ],
-    [
-        "class_9",
-        "class_7",
-        "class_4"
-    ],
-    [
-        "class_3",
         "class_9",
         "class_7",
         "class_4"
@@ -1776,7 +1562,6 @@ var data_class = [
         "class_4"
     ],
     [
-        "class_9",
         "class_3",
         "class_7",
         "class_4"
@@ -1875,13 +1660,10 @@ var data_class = [
         "class_4"
     ],
     [
-        "class_9",
-        "class_3",
         "class_7",
         "class_4"
     ],
     [
-        "class_3",
         "class_9",
         "class_7",
         "class_4"
@@ -1931,7 +1713,6 @@ var data_class = [
         "class_4"
     ],
     [
-        "class_9",
         "class_7",
         "class_4"
     ],
@@ -1951,7 +1732,6 @@ var data_class = [
         "class_4"
     ],
     [
-        "class_3",
         "class_9",
         "class_7",
         "class_4"
@@ -2293,21 +2073,10 @@ var data_class = [
         "class_4"
     ],
     [
-        "class_3",
-        "class_9",
         "class_7",
         "class_4"
     ],
     [
-        "class_7",
-        "class_4"
-    ],
-    [
-        "class_7",
-        "class_4"
-    ],
-    [
-        "class_3",
         "class_7",
         "class_4"
     ],
@@ -2344,419 +2113,418 @@ var data_class = [
         "class_7",
         "class_4"
     ],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
-    [],
     [
-        "class_9",
-        "class_3"
-    ],
-    [
-        "class_9",
-        "class_3"
-    ],
-    [
-        "class_3",
-        "class_9"
-    ],
-    [
-        "class_3"
-    ],
-    [
-        "class_3",
-        "class_9"
-    ],
-    [
-        "class_3",
-        "class_9"
-    ],
-    [
-        "class_3",
-        "class_9"
-    ],
-    [
-        "class_3",
-        "class_9"
-    ],
-    [
-        "class_3",
-        "class_9"
-    ],
-    [
-        "class_3",
-        "class_9"
-    ],
-    [
-        "class_3",
-        "class_9"
-    ],
-    [
-        "class_3",
-        "class_9"
-    ],
-    [
-        "class_3",
-        "class_9"
-    ],
-    [
-        "class_3",
-        "class_9"
-    ],
-    [
-        "class_9",
-        "class_3"
-    ],
-    [
-        "class_9",
-        "class_3"
-    ],
-    [
-        "class_9",
-        "class_3"
-    ],
-    [
-        "class_3",
-        "class_9"
-    ],
-    [],
-    [
-        "class_9",
-        "class_3"
-    ],
-    [
-        "class_9",
-        "class_3"
-    ],
-    [
-        "class_9",
-        "class_3"
-    ],
-    [
-        "class_9",
-        "class_3"
-    ],
-    [
-        "class_9",
-        "class_3"
-    ],
-    [
-        "class_9",
-        "class_3"
-    ],
-    [
-        "class_9",
-        "class_3"
-    ],
-    [
-        "class_3",
-        "class_9"
-    ],
-    [
-        "class_3",
-        "class_9"
-    ],
-    [
-        "class_3",
-        "class_9"
-    ],
-    [
-        "class_3",
-        "class_9"
-    ],
-    [
-        "class_3",
-        "class_9"
-    ],
-    [
-        "class_3",
-        "class_9"
-    ],
-    [
-        "class_3",
-        "class_9"
-    ],
-    [
-        "class_3",
-        "class_9"
-    ],
-    [
-        "class_3",
-        "class_9"
-    ],
-    [
-        "class_3",
-        "class_9"
-    ],
-    [
-        "class_3",
-        "class_9"
-    ],
-    [
-        "class_3",
-        "class_9"
-    ],
-    [
-        "class_9",
-        "class_3"
-    ],
-    [
-        "class_9",
-        "class_3"
-    ],
-    [
-        "class_9",
-        "class_3"
-    ],
-    [
-        "class_9",
-        "class_3"
-    ],
-    [
-        "class_9",
-        "class_3"
-    ],
-    [
-        "class_9",
-        "class_3"
-    ],
-    [
-        "class_9",
-        "class_3"
-    ],
-    [
-        "class_3",
-        "class_9"
-    ],
-    [
-        "class_9",
-        "class_3"
-    ],
-    [
-        "class_3",
-        "class_9"
-    ],
-    [
-        "class_3",
-        "class_9"
-    ],
-    [
-        "class_3",
-        "class_9"
-    ],
-    [
-        "class_3",
-        "class_9"
-    ],
-    [
-        "class_3",
-        "class_9"
-    ],
-    [
-        "class_3",
-        "class_9"
-    ],
-    [
-        "class_3",
-        "class_9"
-    ],
-    [
-        "class_3",
-        "class_9"
-    ],
-    [
-        "class_3",
-        "class_9"
-    ],
-    [
-        "class_3",
-        "class_9"
-    ],
-    [
-        "class_3",
-        "class_9"
-    ],
-    [
-        "class_3",
-        "class_9"
-    ],
-    [
-        "class_3",
-        "class_9"
-    ],
-    [
-        "class_3",
-        "class_9"
-    ],
-    [
-        "class_3",
-        "class_9"
-    ],
-    [
-        "class_3",
-        "class_9"
-    ],
-    [
-        "class_3",
-        "class_9"
-    ],
-    [
-        "class_3",
-        "class_9"
-    ],
-    [
-        "class_9",
-        "class_3"
-    ],
-    [
-        "class_3",
-        "class_9"
-    ],
-    [
-        "class_3",
-        "class_9"
-    ],
-    [
-        "class_3",
-        "class_9"
-    ],
-    [
-        "class_3",
-        "class_9"
-    ],
-    [
-        "class_3",
-        "class_9"
-    ],
-    [
-        "class_3",
-        "class_9"
-    ],
-    [
-        "class_3",
-        "class_9"
-    ],
-    [
-        "class_3",
-        "class_9"
-    ],
-    [
-        "class_3",
-        "class_9"
-    ],
-    [
-        "class_9",
-        "class_3"
-    ],
-    [
-        "class_9",
-        "class_3"
-    ],
-    [
-        "class_3",
-        "class_9"
-    ],
-    [
-        "class_3",
-        "class_9"
-    ],
-    [
-        "class_3",
-        "class_9"
-    ],
-    [
-        "class_3",
-        "class_9"
-    ],
-    [
-        "class_3",
-        "class_9"
-    ],
-    [
-        "class_9",
-        "class_3"
-    ],
-    [
-        "class_9",
-        "class_3"
-    ],
-    [
-        "class_3",
-        "class_9"
-    ],
-    [
-        "class_3",
-        "class_9"
-    ],
-    [
-        "class_3",
-        "class_9"
-    ],
-    [
-        "class_3",
-        "class_9"
-    ],
-    [
-        "class_3",
-        "class_9"
-    ],
-    [
-        "class_3",
-        "class_9"
-    ],
-    [
-        "class_3",
-        "class_9"
-    ],
-    [
-        "class_3",
-        "class_9"
-    ],
-    [
-        "class_3",
-        "class_9"
-    ],
-    [
-        "class_9",
-        "class_3"
-    ],
-    [
-        "class_3",
-        "class_9"
-    ],
-    [
-        "class_9",
-        "class_3"
-    ],
-    [
-        "class_3",
-        "class_9"
-    ],
-    [
-        "class_3",
-        "class_9"
-    ],
-    [
-        "class_3",
-        "class_9"
-    ],
-    [
-        "class_3",
-        "class_9"
+        "class_7",
+        "class_4"
     ],
     [
         "class_7",
+        "class_4"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+        "class_9",
+        "class_3"
+    ],
+    [
+        "class_9",
+        "class_3"
+    ],
+    [
+        "class_3",
+        "class_9"
+    ],
+    [],
+    [
+        "class_3",
+        "class_9"
+    ],
+    [
+        "class_3",
+        "class_9"
+    ],
+    [
+        "class_3",
+        "class_9"
+    ],
+    [
+        "class_3",
+        "class_9"
+    ],
+    [
+        "class_3",
+        "class_9"
+    ],
+    [
+        "class_3",
+        "class_9"
+    ],
+    [
+        "class_3",
+        "class_9"
+    ],
+    [
+        "class_3",
+        "class_9"
+    ],
+    [
+        "class_3",
+        "class_9"
+    ],
+    [
+        "class_3",
+        "class_9"
+    ],
+    [
+        "class_9",
+        "class_3"
+    ],
+    [
+        "class_3"
+    ],
+    [
+        "class_3"
+    ],
+    [
+        "class_3",
+        "class_9"
+    ],
+    [],
+    [],
+    [
+        "class_3"
+    ],
+    [
+        "class_9",
+        "class_3"
+    ],
+    [
+        "class_9",
+        "class_3"
+    ],
+    [
+        "class_9",
+        "class_3"
+    ],
+    [
+        "class_9",
+        "class_3"
+    ],
+    [
+        "class_9",
+        "class_3"
+    ],
+    [
+        "class_3",
+        "class_9"
+    ],
+    [
+        "class_3",
+        "class_9"
+    ],
+    [
+        "class_3",
+        "class_9"
+    ],
+    [
+        "class_3",
+        "class_9"
+    ],
+    [
+        "class_3",
+        "class_9"
+    ],
+    [
+        "class_3",
+        "class_9"
+    ],
+    [
+        "class_3",
+        "class_9"
+    ],
+    [
+        "class_3",
+        "class_9"
+    ],
+    [
+        "class_3",
+        "class_9"
+    ],
+    [
+        "class_3",
+        "class_9"
+    ],
+    [
+        "class_3",
+        "class_9"
+    ],
+    [
+        "class_3",
+        "class_9"
+    ],
+    [
+        "class_9",
+        "class_3"
+    ],
+    [
+        "class_9",
+        "class_3"
+    ],
+    [
+        "class_9",
+        "class_3"
+    ],
+    [
+        "class_9",
+        "class_3"
+    ],
+    [
+        "class_9",
+        "class_3"
+    ],
+    [
+        "class_9",
+        "class_3"
+    ],
+    [
+        "class_9",
+        "class_3"
+    ],
+    [
+        "class_3",
+        "class_9"
+    ],
+    [
+        "class_9",
+        "class_3"
+    ],
+    [
+        "class_3",
+        "class_9"
+    ],
+    [
+        "class_3",
+        "class_9"
+    ],
+    [
+        "class_3",
+        "class_9"
+    ],
+    [
+        "class_3",
+        "class_9"
+    ],
+    [
+        "class_3",
+        "class_9"
+    ],
+    [
+        "class_3",
+        "class_9"
+    ],
+    [
+        "class_3",
+        "class_9"
+    ],
+    [
+        "class_3",
+        "class_9"
+    ],
+    [
+        "class_3",
+        "class_9"
+    ],
+    [
+        "class_3",
+        "class_9"
+    ],
+    [
+        "class_3",
+        "class_9"
+    ],
+    [
+        "class_3",
+        "class_9"
+    ],
+    [
+        "class_3",
+        "class_9"
+    ],
+    [
+        "class_3",
+        "class_9"
+    ],
+    [
+        "class_3",
+        "class_9"
+    ],
+    [
+        "class_3",
+        "class_9"
+    ],
+    [
+        "class_3",
+        "class_9"
+    ],
+    [
+        "class_3",
+        "class_9"
+    ],
+    [
+        "class_9",
+        "class_3"
+    ],
+    [
+        "class_3",
+        "class_9"
+    ],
+    [
+        "class_3",
+        "class_9"
+    ],
+    [
+        "class_3",
+        "class_9"
+    ],
+    [
+        "class_3",
+        "class_9"
+    ],
+    [
+        "class_3",
+        "class_9"
+    ],
+    [
+        "class_3",
+        "class_9"
+    ],
+    [
+        "class_3",
+        "class_9"
+    ],
+    [
+        "class_3",
+        "class_9"
+    ],
+    [
+        "class_3",
+        "class_9"
+    ],
+    [
+        "class_9",
+        "class_3"
+    ],
+    [
+        "class_9",
+        "class_3"
+    ],
+    [
+        "class_3",
+        "class_9"
+    ],
+    [
+        "class_3",
+        "class_9"
+    ],
+    [
+        "class_3",
+        "class_9"
+    ],
+    [
+        "class_3",
+        "class_9"
+    ],
+    [
+        "class_3",
+        "class_9"
+    ],
+    [
+        "class_9",
+        "class_3"
+    ],
+    [
+        "class_9",
+        "class_3"
+    ],
+    [
+        "class_3",
+        "class_9"
+    ],
+    [
+        "class_3",
+        "class_9"
+    ],
+    [
+        "class_3",
+        "class_9"
+    ],
+    [
+        "class_3",
+        "class_9"
+    ],
+    [
+        "class_3",
+        "class_9"
+    ],
+    [
+        "class_3",
+        "class_9"
+    ],
+    [
+        "class_3",
+        "class_9"
+    ],
+    [
+        "class_3",
+        "class_9"
+    ],
+    [
+        "class_3",
+        "class_9"
+    ],
+    [
+        "class_9",
+        "class_3"
+    ],
+    [
+        "class_3",
+        "class_9"
+    ],
+    [
+        "class_9",
+        "class_3"
+    ],
+    [
+        "class_3",
+        "class_9"
+    ],
+    [
+        "class_3",
+        "class_9"
+    ],
+    [
+        "class_3",
+        "class_9"
+    ],
+    [
+        "class_3",
+        "class_9"
+    ],
+    [
         "class_3",
         "class_9"
     ],
@@ -2985,7 +2753,6 @@ var data_class = [
         "class_9"
     ],
     [
-        "class_4",
         "class_3",
         "class_9"
     ],
@@ -3002,7 +2769,6 @@ var data_class = [
         "class_9"
     ],
     [
-        "class_4",
         "class_3",
         "class_9"
     ],
@@ -3044,12 +2810,9 @@ var data_class = [
         "class_9",
         "class_3"
     ],
-    [
-        "class_3"
-    ],
+    [],
     [],
     [
-        "class_9",
         "class_3"
     ],
     [
@@ -3057,18 +2820,22 @@ var data_class = [
         "class_4"
     ],
     [
-        "class_9",
-        "class_3",
-        "class_4"
-    ],
-    [
         "class_3",
         "class_4"
     ],
     [],
-    [
-        "class_4"
-    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
     [],
     [
         "class_4"
@@ -3077,25 +2844,8 @@ var data_class = [
     [],
     [],
     [],
-    [
-        "class_4"
-    ],
-    [],
-    [
-        "class_4"
-    ],
     [],
     [],
-    [
-        "class_4"
-    ],
-    [],
-    [
-        "class_4"
-    ],
-    [
-        "class_4"
-    ],
     [],
     [],
     [],
@@ -3114,21 +2864,8 @@ var data_class = [
         "class_4"
     ],
     [],
-    [
-        "class_4"
-    ],
-    [
-        "class_4"
-    ],
-    [
-        "class_4"
-    ],
-    [
-        "class_4"
-    ],
-    [
-        "class_4"
-    ],
+    [],
+    [],
     [],
     [
         "class_4"
@@ -3144,6 +2881,7 @@ var data_class = [
     [],
     []
 ]
+
 
 var currentFrame = $('#currentFrame');
 var video_0 = VideoFrame({
@@ -3161,6 +2899,11 @@ var video_1 = VideoFrame({
             activeLabel($('#img_' + item)[0])
             // $('#' + item).addClass('active')
         });
+        // data_class_light[frame].forEach((item) => {
+        //     activeLabel($('#' + item)[0])
+        //     activeLabel($('#img_' + item)[0])
+        //     // $('#' + item).addClass('active')
+        // });
     }
 });
 

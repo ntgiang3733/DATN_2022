@@ -70,7 +70,9 @@
         }
 
         .label_list {
-            background-color: black;
+            /* background-color: black; */
+            border: solid 3px rgb(92, 92, 10);
+            border-radius: 5px;
         }
         .label_list .row {
             height: 50px;
@@ -79,6 +81,16 @@
             width: 30px;
             height: 30px;
         }
+        body {
+            /* background-color: #3a3a3a; */
+            background-color: black;
+        }
+        .text-info {
+            font-size: 23px;
+        }
+        .my_contain {
+            width: 100%;
+        }
     </style>
 </head>
 
@@ -86,14 +98,20 @@
     <div class="frame">
         <span id="currentFrame">0</span>
     </div>
-    <div class="row">
+    <div class="row my_contain" >
         <div class="col-5">
+            <div class="text-info">
+                <p>Video gốc</p>
+            </div>
             <video id="video_0" width="100%">
                 <source src="./v20.mp4">
                 </source>
             </video>
         </div>
         <div class="col-5">
+            <div class="text-info">
+                <p>Kết quả</p>
+            </div>
             <video id="video_1" width="100%">
                 <source src="./v21.mp4">
                 </source>
@@ -102,7 +120,7 @@
         <div class="col-2 label_list" >
             <div class="row">
                 <div class="col-3">
-                    <img id="img_class_0" src="den_do.png" />
+                    <img id="img_class_0" src="label_img/den_do.png" />
                 </div>
                 <div class="col-9">
                     <span class="label_class" id="class_0">Đèn đỏ</span>
@@ -110,7 +128,7 @@
             </div>
             <div class="row">
                 <div class="col-3">
-                    <img id="img_class_1" src="den_xanh.png" />
+                    <img id="img_class_1" src="label_img/den_xanh.png" />
                 </div>
                 <div class="col-9">
                     <span class="label_class" id="class_1">Đèn xanh</span>
@@ -118,7 +136,7 @@
             </div>
             <div class="row">
                 <div class="col-3">
-                    <img id="img_class_2" src="den_vang.png" />
+                    <img id="img_class_2" src="label_img/den_vang.png" />
                 </div>
                 <div class="col-9">
                     <span class="label_class" id="class_2">Đèn vàng</span>
@@ -126,7 +144,7 @@
             </div>
             <div class="row">
                 <div class="col-3">
-                    <img id="img_class_3" src="cam_nguoc_chieu.png" />
+                    <img id="img_class_3" src="label_img/cam_nguoc_chieu.png" />
                 </div>
                 <div class="col-9">
                     <span class="label_class" id="class_3">Cấm ngược chiều</span>
@@ -134,7 +152,7 @@
             </div>
             <div class="row">
                 <div class="col-3">
-                    <img id="img_class_4" src="cam_dung_do_xe.png" />
+                    <img id="img_class_4" src="label_img/cam_dung_do_xe.png" />
                 </div>
                 <div class="col-9">
                     <span class="label_class" id="class_4">Cấm dừng và đỗ</span>
@@ -142,7 +160,7 @@
             </div>
             <div class="row">
                 <div class="col-3">
-                    <img id="img_class_5" src="cam_re.png" />
+                    <img id="img_class_5" src="label_img/cam_re.png" />
                 </div>
                 <div class="col-9">
                     <span class="label_class" id="class_5">Cấm rẽ</span>
@@ -150,7 +168,7 @@
             </div>
             <div class="row">
                 <div class="col-3">
-                    <img id="img_class_6" src="gioi_han_td.png" />
+                    <img id="img_class_6" src="label_img/gioi_han_td.png" />
                 </div>
                 <div class="col-9">
                     <span class="label_class" id="class_6">Giới hạn tốc độ</span>
@@ -158,7 +176,7 @@
             </div>
             <div class="row">
                 <div class="col-3">
-                    <img id="img_class_7" src="cam_con_lai.png" />
+                    <img id="img_class_7" src="label_img/cam_con_lai.png" />
                 </div>
                 <div class="col-9">
                     <span class="label_class" id="class_7">Cấm còn lại</span>
@@ -166,7 +184,7 @@
             </div>
             <div class="row">
                 <div class="col-3">
-                    <img id="img_class_8" src="nguy_hiem.png" />
+                    <img id="img_class_8" src="label_img/nguy_hiem.png" />
                 </div>
                 <div class="col-9">
                     <span class="label_class" id="class_8">Nguy hiểm</span>
@@ -174,7 +192,7 @@
             </div>
             <div class="row">
                 <div class="col-3">
-                    <img id="img_class_9" src="hieu_lenh.png" />
+                    <img id="img_class_9" src="label_img/hieu_lenh.png" />
                 </div>
                 <div class="col-9">
                     <span class="label_class" id="class_9">Hiệu lệnh</span>
@@ -184,7 +202,7 @@
     </div>
 
 
-    <div id="controls">
+    <div id="controls" style="margin-top: 350px">
         <button id="play-pause">Play</button>
     </div>
 
